@@ -8,3 +8,6 @@
 
 <a class="font" href="./Sep15/Linux0915.txt">15 сентября</a>
 <span class="font"> - GitHab ветки
+
+<a class="font" href="./Okt04/Linux1004.txt">04 октября</a>
+<span class="font"> - GitHab ветки
