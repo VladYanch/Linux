@@ -10,4 +10,4 @@
 <span class="font"> - GitHab ветки
 
 <a class="font" href="./Okt04/Linux1004.txt">04 октября</a>
-<span class="font"> - GitHab ветки
+<span class="font"> - Git ветки и слияния
